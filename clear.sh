@@ -1,1 +1,1 @@
-uv clean && rm -rf ./build
+uv clean & rm -rf ./build
