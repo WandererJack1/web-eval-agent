@@ -21,7 +21,6 @@ RUN apt-get update && apt-get install -y \
     libxext6 \
     libxfixes3 \
     libxrandr2 \
-    libgbm1 \
     libxkbcommon0 \
     libasound2 \
     libcups2 \
