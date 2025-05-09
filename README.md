@@ -1,21 +1,18 @@
-# 🚀 operativelabs.xyz web-eval-agent MCP Server
+# web-eval-agent MCP Server
 
 > *Let the coding agent debug itself, you've got better things to do.*
 
-![Demo](./demo.gif)
 
-
-
-## 🔥 Supercharge Your Debugging
+##  Supercharge Your Debugging
 
 [operativelabs.xyz](https://www.operativelabs.xyz)'s MCP Server launches a browser-use powered agent to autonomously execute and debug web apps directly in your code editor.
 
-## ⚡ Features
+##  Features
 
-- 🌐 **Navigate your webapp** using BrowserUse (2x faster with operative backend)
-- 📊 **Capture network traffic** - requests are intelligently filtered and returned into the context window
-- 🚨 **Collect console errors** - captures logs & errors
-- 🤖 **Autonomous debugging** - the Cursor agent calls the web QA agent mcp server to test if the code it wrote works as epected end-to-end.
+- **Navigate your webapp** using BrowserUse (2x faster with operative backend)
+-  **Capture network traffic** - requests are intelligently filtered and returned into the context window
+- **Collect console errors** - captures logs & errors
+- **Autonomous debugging** - the Cursor agent calls the web QA agent mcp server to test if the code it wrote works as epected end-to-end.
 
 ## 🏁 Quick Start (macOS/Linux)
 
@@ -143,10 +140,6 @@ We're refining this, please open an issue if you have any issues!
   01:17:47.038 🤖 📋 Conclusion repeated above
 👁️  See the “Operative Control Center” dashboard for live logs.
 ```
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Operative-Sh/web-eval-agent&type=Date)](https://www.star-history.com/#Operative-Sh/web-eval-agent&Date)
 
 
 ---
